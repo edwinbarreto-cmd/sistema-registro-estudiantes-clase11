@@ -53,3 +53,8 @@ Nombre: Barreto Calizaya Edwin Rodrigo
 Carrera: Ingeneria Sistemas
 
 Semestre: Sexto
+
+## Futuras mejoras
+- Validar datos ingresados. 
+- Agregar almacenamiento de estudiantes. 
+- Mejorar la presentación del sistema. 
